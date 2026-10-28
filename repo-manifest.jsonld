@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/huggingface/aokit/commit/66b74bef60dbcbb20e441e0793ef6444bc20402f",
       "git:hexsha": "66b74bef60dbcbb20e441e0793ef6444bc20402f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/aokit/commit/7dba174c605634dab06d10466d67977d1870191e",
